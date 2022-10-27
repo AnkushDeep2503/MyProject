@@ -1,0 +1,32 @@
+2022-03-29 09:28:46,858 :INFO :test_logging :Information statement
+2022-03-29 09:28:46,858 :WARNING :test_logging :Something is in warning mode
+2022-03-29 09:28:46,858 :ERROR :test_logging :A major error has happened
+2022-03-29 09:28:46,858 :CRITICAL :test_logging :Critical issue
+2022-03-29 09:29:37,745 :WARNING :test_logging :Something is in warning mode
+2022-03-29 09:29:37,745 :ERROR :test_logging :A major error has happened
+2022-03-29 09:29:37,745 :CRITICAL :test_logging :Critical issue
+2022-03-29 09:32:39,051 :WARNING :test_logging :Something is in warning mode
+2022-03-29 09:32:39,051 :ERROR :test_logging :A major error has happened
+2022-03-29 09:32:39,051 :CRITICAL :test_logging :Critical issue
+2022-03-29 09:38:05,628 :CRITICAL : test_logging2 :Critical issue
+2022-03-29 10:01:54,975 :INFO : pytestsDemo.BaseClass :Rahul
+2022-03-29 10:01:55,027 :INFO : pytestsDemo.BaseClass :Shetty
+2022-03-29 10:01:55,027 :INFO : pytestsDemo.BaseClass :rahulshettyacademy.com
+2022-03-29 10:02:31,713 :INFO : pytestsDemo.BaseClass :Rahul
+2022-03-29 10:02:31,713 :INFO : pytestsDemo.BaseClass :Shetty
+2022-03-29 10:02:31,713 :INFO : pytestsDemo.BaseClass :rahulshettyacademy.com
+2022-03-29 10:05:12,592 :INFO : pytestsDemo.BaseClass :Rahul
+2022-03-29 10:05:12,592 :INFO : pytestsDemo.BaseClass :Shetty
+2022-03-29 10:05:12,592 :INFO : pytestsDemo.BaseClass :rahulshettyacademy.com
+2022-03-29 10:05:45,402 :INFO : pytestsDemo.BaseClass :Rahul
+2022-03-29 10:05:45,403 :INFO : pytestsDemo.BaseClass :Shetty
+2022-03-29 10:05:45,403 :INFO : pytestsDemo.BaseClass :rahulshettyacademy.com
+2022-03-29 10:07:34,879 :INFO : test_editProfile :Rahul
+2022-03-29 10:07:34,879 :INFO : test_editProfile :Shetty
+2022-03-29 10:07:34,879 :INFO : test_editProfile :rahulshettyacademy.com
+2022-03-29 10:18:39,977 :INFO : test_editProfile :Rahul
+2022-03-29 10:18:40,006 :INFO : test_editProfile :Shetty
+2022-03-29 10:18:40,006 :INFO : test_editProfile :rahulshettyacademy.com
+2022-03-29 11:54:05,150 :INFO : test_editProfile :Rahul
+2022-03-29 11:54:05,181 :INFO : test_editProfile :Shetty
+2022-03-29 11:54:05,181 :INFO : test_editProfile :rahulshettyacademy.com
